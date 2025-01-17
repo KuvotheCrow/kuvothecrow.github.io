@@ -207,6 +207,13 @@
 	--button-border:1px solid #FFFFFF;
 }
 
+/* FurTrack */
+.button-furtrack {
+	--button-text:#ffffff;
+	--button-background:#7916ca;
+
+}
+
 /* GitHub */
 .button-github {
 	--button-text:#ffffff;
