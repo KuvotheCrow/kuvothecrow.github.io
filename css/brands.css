@@ -207,6 +207,13 @@
 	--button-border:1px solid #FFFFFF;
 }
 
+/* smugmug */
+.button-smugmug {
+	--button-text:#ffffff;
+	--button-background:#052869;
+	--button-border:1px solid #052869;
+}
+
 /* FurTrack */
 .button-furtrack {
 	--button-text:#ffffff;
