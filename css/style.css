@@ -112,7 +112,7 @@
 
 /* Avatar */
 .avatar {
-	             /* 128px */
+	width: auto;             /* 128px */
 	height: 250px;
 	border-radius: 50%;
 	object-fit: cover;
